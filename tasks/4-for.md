@@ -13,4 +13,4 @@ console.log(newNames);
  
 console.log(names); // Старый массив не меняется!
 // => ['john', 'smith', 'karl'];
-```
+```a
